@@ -9,7 +9,7 @@ Some useful annotations:
 1. @Configuration = When application starts Spring discovers the class and loads the configurations from the class.   
 
 
-Install SOAPUI and play with the project (SpringCustomizeContentNegotiation-soapui-project.xml) attached here
+Install SOAPUI and play with the project (SpringCustomizeContentNegotiation-soapui-project.xml) attached here. FYI : SOAPUI proect is built on SOAPUI V 5.0.0
 
 #Useful Links
 https://dzone.com/articles/content-negotiation-using
