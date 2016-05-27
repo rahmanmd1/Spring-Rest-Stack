@@ -1,4 +1,4 @@
-# ================== This section is for :  SpringCustomizeContentNegotiation ========
+# + SpringCustomizeContentNegotiation +
 
 Please pay special attention to following class:
 
