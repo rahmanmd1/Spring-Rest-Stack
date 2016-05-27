@@ -15,7 +15,7 @@ public class MvcConfiguration extends WebMvcConfigurerAdapter{
 		  configurer.favorPathExtension(true).
           favorParameter(true).
           parameterName("mediaType").
-          ignoreAcceptHeader(true).
+          ignoreAcceptHeader(false).  // better not to use Accept header for content negotiation.   
           useJaf(false).
           defaultContentType(MediaType.APPLICATION_JSON).
           mediaType("xml", MediaType.APPLICATION_XML).
