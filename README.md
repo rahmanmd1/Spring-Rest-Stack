@@ -2,7 +2,13 @@
 
 Please pay special attention to following class:
 
-MvcConfiguration
+    MvcConfiguration
+    
+Some useful annotations: 
+
+1. @Configuration = When application starts Spring discovers the class and load the configurations from the class.   
+
+
 
 #Useful Links
 https://dzone.com/articles/content-negotiation-using
